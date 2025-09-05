@@ -1,0 +1,12 @@
+title: "Your Project"
+description: "Public Seminar Series"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+collections:
+  seminars:
+    output: true
+    permalink: /seminars/:title/
+
+theme: minima
+markdown: kramdown
