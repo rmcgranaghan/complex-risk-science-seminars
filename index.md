@@ -3,8 +3,12 @@ layout: default
 title: Home
 ---
 
-# Welcome to Your Project
+# Complex Risk Seminar
 
-This is the public website for our seminar series and related activities.  
+Welcome to the **Complex Risk Seminar** series.  
+We explore the science, practice, and implications of complex risk and resilience.  
 
-👉 [See upcoming seminars](/seminars/)
+![Seminar Banner]({{ site.baseurl }}/assets/banner.png)
+
+- [Upcoming Seminars]({{ site.baseurl }}/seminars/)
+- [About the Series]({{ site.baseurl }}/about/)

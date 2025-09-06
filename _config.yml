@@ -1,12 +1,12 @@
-title: "Your Project"
-description: "Public Seminar Series"
-baseurl: ""
+title: "Complex Risk Seminar"
+description: "A public seminar series on complex risks and resilience."
 url: "https://yourusername.github.io"
+baseurl: "/complex-risk-seminar"
+
+markdown: kramdown
+theme: minima
 
 collections:
   seminars:
     output: true
     permalink: /seminars/:title/
-
-theme: minima
-markdown: kramdown
