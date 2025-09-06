@@ -1,7 +1,7 @@
 title: "Your Project"
 description: "Public Seminar Series"
-baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://rmcgranaghan.github.io"
+baseurl: "/complex-risk-seminar"
 
 collections:
   seminars:
