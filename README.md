@@ -1,7 +1,8 @@
 
 # Description
 
-Visit the site: [Complex Risk Seminar](https://rmcgranaghan.github.io/complex-risk-seminar/)
+<!--Visit the site: [Complex Risk Seminar](https://rmcgranaghan.github.io/complex-risk-seminar/)-->
+Visit the site: [Complex Risk Seminar](http://www.ryanmcgranaghan.com/complex-risk-seminar/)
 
 
 **Risk science—at the intersection of physical hazards and societal systems—is essential, underdeveloped, and ripe for new insights from complexity and social sciences.**
