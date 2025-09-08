@@ -10,3 +10,9 @@ collections:
   seminars:
     output: true
     permalink: /seminars/:title/
+
+
+header_pages:
+  - index.md
+  - about.md
+  - seminars.md
