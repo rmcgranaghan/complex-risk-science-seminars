@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: "Complex Risk Seminar"
 description: "A public seminar series on complex risks and resilience."
 url: "https://risk-seminar.ryanmcgranaghan.com"
@@ -6,12 +5,6 @@ baseurl: ""   # leave empty since it's at the root of that domain
 
 markdown: kramdown
 theme: minima
-=======
-title: "Your Project"
-description: "Public Seminar Series"
-url: "https://rmcgranaghan.github.io"
-baseurl: "/complex-risk-seminar"
->>>>>>> b3415995d30394d6790dfdd1b8d9456b8e5cf294
 
 collections:
   seminars:
