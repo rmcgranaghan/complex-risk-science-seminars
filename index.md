@@ -13,4 +13,5 @@ Risk science—at the intersection of physical hazards and societal systems—is
 - Use the navigation bar to learn more about the series.
 - [Upcoming Seminars]({{ site.baseurl }}/seminars/)
 - [About the Series]({{ site.baseurl }}/about/)
+- [Resources]({{ site.baseurl }}/resources/)
 
