@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 title: "Complex Risk Seminar"
 description: "A public seminar series on complex risks and resilience."
-url: "https://rmcgranaghan.github.io"
-baseurl: "/complex-risk-seminar"
+url: "https://risk-seminar.ryanmcgranaghan.com"
+baseurl: ""   # leave empty since it's at the root of that domain
 
 markdown: kramdown
 theme: minima
