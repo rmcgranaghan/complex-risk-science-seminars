@@ -14,7 +14,8 @@ Socio-ecological-techological systems (SETS) are the frontier of this paradigm o
 
 This will be a seminar sub-series, hosted by Ryan McGranaghan at the NASA Jet Propulsion Laboratory, to convene a multi-institutional community, unlikely to come together on its own, of pioneering voices to provide information and seed collaboration in this emergent and emerging space. Each seminar will explore bold yet feasible questions that define this cross-disciplinary, cross-domain community and illuminate the new projects needed to address them.
 
-![Seminar Banner](/assets/JPL Complex Risk Science Flyer.png)
+![Seminar Banner](/assets/JPL%20Complex%20Risk%20Science%20Flyer.png)
+
 
 # Building on...
 
