@@ -17,6 +17,10 @@ This will be a seminar sub-series, hosted by Ryan McGranaghan at the NASA Jet Pr
 
 ![Seminar Banner](/assets/JPL%20Complex%20Risk%20Science%20Flyer.png)
 
+# Why now? 
+We believe a new kind of forum is needed—one that brings together experts across disciplines to grapple with the nonlinear, surprising ways in which risk evolves when multiple hazards and social systems interact. This series will begin building that community.
+
+We invite you to join this singular gathering—bringing together people unlikely to share a room otherwise—to help shape the future of complex risk science.
 
 # Building on...
 
