@@ -1,21 +1,24 @@
 ---
 ---
 {% raw %}
-{% include head.html %}
+{% comment %}
+seminar.html layout: wraps seminar markdown content in the default site layout
+{% endcomment %}
 
-<body>
-  <div class="wrapper">
-    <header>
-      <h1>{{ page.title }}</h1>
-      <p><strong>Speaker:</strong> {{ page.speaker }}</p>
-      <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
-      <p><strong>Time:</strong> {{ page.time }}</p>
-      <p><strong>Location:</strong> {{ page.location }}</p>
-    </header>
+{% extends "default" %}
 
-    <main>
+{% block content %}
+  <article class="seminar">
+    <h1>{{ page.title }}</h1>
+    <p><strong>Speaker:</strong> {{ page.speaker }}</p>
+    <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+    <p><strong>Time:</strong> {{ page.time }}</p>
+    <p><strong>Location:</strong> {{ page.location }}</p>
+
+    <div class="seminar-content">
       {{ content }}
-    </main>
-  </div>
-</body>
+    </div>
+  </article>
+{% endblock %}
 {% endraw %}
+
