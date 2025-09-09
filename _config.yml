@@ -9,7 +9,7 @@ theme: minima
 collections:
   seminars:
     output: true
-    permalink: /seminars/:title/
+    permalink: /seminars/:slug/
 
 
 header_pages:
