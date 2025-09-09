@@ -15,8 +15,8 @@ collections:
 header_pages:
   - index.md
   - about.md
-  - resources.md
   - seminars.md
+  - resources.md
 
 
   
