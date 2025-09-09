@@ -1,18 +1,16 @@
 title: "Complex Risk Seminar"
 description: "A public seminar series on complex risks and resilience."
 url: "https://risk-seminar.ryanmcgranaghan.com"
-baseurl: ""   # leave empty since it's at the root of that domain
-
-# random comment
+baseurl: ""   # leave empty if site is at the root of this domain
 
 markdown: kramdown
 theme: minima
 
+# Define seminars collection
 collections:
   seminars:
     output: true
     permalink: /seminars/:name/
-
 
 header_pages:
   - index.md
