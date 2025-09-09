@@ -1,5 +1,5 @@
 ---
-layout: seminar
+layout: page
 title: Seminars
 permalink: /seminars/
 ---
