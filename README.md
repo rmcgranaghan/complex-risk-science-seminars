@@ -36,7 +36,7 @@ The solution to building capacity and collectivity for risk science that respond
 - Complex Risk Science Summit (Spring/Summer 2026)
 Our world is increasingly shaped by complex, interconnected risks (hazard likelihood * exposure * vulnerability). Natural hazards do not occur in isolation—they interact with one another, social systems, infrastructures, and ecological processes in nonlinear and often surprising ways. Recent events such as widespread power outages during extreme heat waves, cascading wildfire and air quality crises, and compound weather-space weather disturbances underscore the urgency of advancing beyond siloed risk assessment. Yet the tools available to decision-makers remain inadequate: most current models are hazard-specific, static, and ill-suited to capture compounding and cascading interactions under deep uncertainty. This gap is both a scientific imperative and a strategic opportunity. JPL, with its leadership in Earth observation, digital twins, and AI-enabled modeling, is uniquely positioned to convene the scientific and operational communities needed to define a new paradigm of complex risk and resilience science. We propose to help make JPL the convener of this new cross-disciplinary collective dedicated to advancing the science of complex risk and resilience through a two-day 'Complex Risk Science Summit.'
 
-
+<!--
 ## Adding a new seminar
 1. Create a new file in `_seminars/` with a name like `YYYY-MM-DD-title.md`.
 2. Use the following front matter:
@@ -50,3 +50,4 @@ date: YYYY-MM-DD
 ```
 
 3. Add your seminar details under the header.
+-->
