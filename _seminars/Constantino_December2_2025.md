@@ -1,6 +1,6 @@
 ---
 title: "Climate Extremes and Complex Risks"
-speaker: "Dr. Sara Constantini, Stanford University"
+speaker: "Dr. Sara Constantino, Stanford University"
 date: 2025-12-2
 time: "1:00 PM ET"
 location: "Virtual (link forthcoming)"
