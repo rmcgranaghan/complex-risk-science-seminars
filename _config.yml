@@ -3,6 +3,8 @@ description: "A public seminar series on complex risks and resilience."
 url: "https://risk-seminar.ryanmcgranaghan.com"
 baseurl: ""   # leave empty since it's at the root of that domain
 
+# random comment
+
 markdown: kramdown
 theme: minima
 
