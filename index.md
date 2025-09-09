@@ -17,6 +17,7 @@ Scientists, government agencies, managers and operators of critical infrastructu
 This seminar series convenes the uncommon groups, almost certain not to be brought together elsewhere, required to explore the science, practice, and implications of complex risk and resilience. It builds on the foundation created the Science Understanding from Data Science ([SUDS](https://www.jpl.nasa.gov/go/suds/suds-report/)) initiative conducted internally at the NASA Jet Propulsion Laboration between 2021-2024 and then emerged into a multi-institutional movement, supporting numerous 'Horizons Initiatives.' 
 
 - Use the navigation bar to learn more about the series.
+- Connect with the community on Slack - join the seminars to get access
 - [Upcoming Seminars]({{ site.baseurl }}/seminars/)
 - [About the Series]({{ site.baseurl }}/about/)
 - [Resources]({{ site.baseurl }}/resources/)
