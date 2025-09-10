@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Test Seminar Reset"
-speaker: "Dr. Test Speaker"
-date: 2025-01-01
-time: "12:00 PM"
+title: "Complex Interconnected Systems: Risk-Informed Decisions for Situations of Compound Extremes"
+speaker: "Dr. Auroop Ganguly, Northeastern University"
+date: 2025-09-16
+time: "1:00 PM ET"
 location: "Virtual"
 ---
 
