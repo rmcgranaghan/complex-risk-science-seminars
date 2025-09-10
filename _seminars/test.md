@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: "Test Seminar Reset"
 speaker: "Dr. Test Speaker"
