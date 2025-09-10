@@ -6,9 +6,3 @@ date: "2025-11-04"
 time: "1:00 PM ET"
 location: "Virtual"
 ---
-
-**Abstract**
-forthcoming
-
-**Biography**
-forthcoming
