@@ -3,7 +3,7 @@ layout: page
 title: "Emerging Frontiers of Risk-based Resilience to Extremes in a Changing Climate"
 speaker: "Dr. Sai Ravela, MIT"
 date: 2025-09-23
-time: "1:00 PM ET | 10:00 AM ET"
+time: "1:00 PM ET"
 location: "Virtual  (link forthcoming)"
 ---
 
