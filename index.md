@@ -16,7 +16,7 @@ Risk science is the effort to understand hazards and their impacts in ways that 
 
 **Complex Risk Science** is one such emerging approach. It draws from complexity science, resilience thinking, and critical transitions research to explore how interconnections between hazards and infrastructures reshape risk itself.
 
-This seminar series convenes people who rarely meet—scientists, practitioners, policymakers, and creators—to explore the science, practice, and implications of complex risk. It is a space for gathering, connecting, and discovering new ways of understanding and responding to the risks of our time. It builds on the foundation created during the Science Understanding from Data Science ([SUDS](https://www.jpl.nasa.gov/go/suds/suds-report/)) initiative conducted internally at the NASA Jet Propulsion Laboratory between 2021-2024 and then emerged into a multi-institutional movement, supporting numerous 'Horizons Initiatives.' 
+This (experimental) seminar series convenes people who rarely meet—scientists, practitioners, policymakers, and creators—to explore the science, practice, and implications of complex risk. It is a space for gathering, connecting, and discovering new ways of understanding and responding to the risks of our time. It builds on the foundation created during the Science Understanding from Data Science ([SUDS](https://www.jpl.nasa.gov/go/suds/suds-report/)) initiative conducted internally at the NASA Jet Propulsion Laboratory between 2021-2024 and then emerged into a multi-institutional movement, supporting numerous 'Horizons Initiatives.' 
 
 - Use the navigation bar to learn more about the series.
 - Connect with the community on Slack - join the seminars to get access
