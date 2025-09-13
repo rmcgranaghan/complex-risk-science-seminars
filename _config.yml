@@ -6,6 +6,8 @@ baseurl: ""   # leave empty if site is at the root of this domain
 markdown: kramdown
 theme: minima
 
+future: true   # allow future-dated seminars to build
+
 # Define seminars collection
 collections:
   seminars:
