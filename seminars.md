@@ -6,6 +6,7 @@ permalink: /seminars/
 
 ## Upcoming Seminars
 
+<!--
 - "Complex Interconnected Systems: Risk-Informed Decisions for Situations of Compound Extremes"
 Dr. Auroop Ganguly, Northeastern University — **September 16, 2025** at 1:00 PM ET / 10:00 AM PT
 
@@ -29,10 +30,10 @@ Dr. Alexandre Dunant, EURAC Research - **November 18, 2025** at 1:00 PM ET / 10:
 <!-- - (tentative) "Accounting for Sociopolitical Feedbacks to Identify Barriers and Opportunities for Collective Climate Action"
 Dr. Sara Constantino, Stanford University - **December 2, 2025** at 1:00 PM ET / 10:00 AM PT -->
 
+-->
 
 
 
-<!--
 <ul>
   {% assign upcoming = site.seminars | where_exp: "s", "s.date >= site.time" | sort: "date" %}
   {% for seminar in upcoming %}
@@ -54,6 +55,6 @@ Dr. Sara Constantino, Stanford University - **December 2, 2025** at 1:00 PM ET /
     </li>
   {% endfor %}
 </ul>
--->
+
 
 
