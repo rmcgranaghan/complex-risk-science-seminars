@@ -1,9 +1,14 @@
 ---
 layout: page
-title: "Test Seminar Reset"
-speaker: "Dr. Test Speaker"
+title: "What Digital Twins (alone) will not Answer for Risk Science"
+speaker: "Dr. Ryan McGranaghan, JPL"
 date: 2025-11-04
-time: "12:00 PM"
-location: "Virtual"
+time: "1:00 PM ET"
+location: "Virtual (link forthcoming)"
 ---
-This is a test seminar page after reset.
+
+**Abstract**
+forthcoming
+
+**Biography**
+forthcoming
