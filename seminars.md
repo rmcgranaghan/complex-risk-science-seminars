@@ -26,11 +26,12 @@ Dr. Ryan McGranaghan, JPL - **November 4, 2025** at 1:00 PM ET / 10:00 AM PT
 - (tentative) "Multihazards Scenario Generator: A Network‐Based Simulation of Natural Disasters"
 Dr. Alexandre Dunant, EURAC Research - **November 18, 2025** at 1:00 PM ET / 10:00 AM PT
 
+-->
 
 <!-- - (tentative) "Accounting for Sociopolitical Feedbacks to Identify Barriers and Opportunities for Collective Climate Action"
 Dr. Sara Constantino, Stanford University - **December 2, 2025** at 1:00 PM ET / 10:00 AM PT -->
 
--->
+
 
 
 
