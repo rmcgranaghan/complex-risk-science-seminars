@@ -1,6 +1,6 @@
 ---
 layout: seminar
-title: "Emerging Frontiers of Risk-based Resilience to Extremes in a Changing Climate"
+title: "Resolving Risk in a Nonstationary World: Large Ensembles, Extremes, and Sustainability"
 speaker: "Dr. Sai Ravela, MIT"
 date: 2025-09-23
 time: "1:00 PM ET"
