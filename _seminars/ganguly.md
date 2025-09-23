@@ -8,6 +8,9 @@ location: "Virtual (link forthcoming)"
 flyer: "/assets/Auroop_ComplexRiskFlyer.pdf"
 ---
 
+**Recording**
+[YouTube video](https://www.youtube.com/playlist?list=PLOop1avL3VJFLbnIyEKaC_Y_7_Fv7bWH4)
+
 **Abstract**
 The interdependence of natural, human-engineered, and social systems (sometimes called socio-ecological-technological systems, SETS) gives rise to cross-system interactions and complex behavior. Dr. Auroop Gangulyleads research at this frontier of scientific and engineering knowledge. He will first provide a foundation of the domain of risk science and then share how fundamental research in artificial intelligence guided by process knowledge, can offer novel insights and transformative solutions for its central goals: sustainability and resilience. Auroop extracts insights from that research to guide how we construct risk frameworks for an increasingly interconnected world and what is required alongside the frameworks to translate the knowledge into information useful for decision and policy makers. Cutting-edge solutions will be illustrated across domains of weather prediction and its role in multi-hazard systems, transportation networks, and interconnected critical infrastructure—demonstrating how science-driven innovation can inform planning, design, and adaptive management.
 
