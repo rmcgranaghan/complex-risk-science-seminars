@@ -22,6 +22,7 @@ Watch the previous seminars on YouTube [here](https://www.youtube.com/playlist?l
 
 - Use the navigation bar to learn more about the series.
 - Connect with the community on Slack - join the seminars to get access
+- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeP4fLrvMrvFYF-vSSm8OvpJr7QMXAc3KVplt8500I6sCN0SA/viewform?usp=header)
 - [Upcoming Seminars]({{ site.baseurl }}/seminars/)
 - [About the Series]({{ site.baseurl }}/about/)
 - [Resources]({{ site.baseurl }}/resources/)
