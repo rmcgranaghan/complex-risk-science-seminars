@@ -8,6 +8,8 @@ theme: minima
 
 future: true   # allow future-dated seminars to build
 
+youtube_playlist: "https://www.youtube.com/playlist?list=PLOop1avL3VJFLbnIyEKaC_Y_7_Fv7bWH4"
+
 # Define seminars collection
 collections:
   seminars:
