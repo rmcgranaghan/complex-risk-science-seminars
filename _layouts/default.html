@@ -17,6 +17,15 @@
     </nav>
   </header>
 
+  {% if site.youtube_playlist %}
+<div style="background-color:#f9fafb; border-bottom:2px solid #ddd; padding:10px; text-align:center;">
+  <a href="{{ site.youtube_playlist }}" target="_blank" style="font-weight:bold; color:#d93025; text-decoration:none;">
+    📺 Watch Past Seminars on YouTube
+  </a>
+</div>
+  {% endif %}
+
+  
   <main class="container mx-auto p-6">
     {{ content }}
   </main>
