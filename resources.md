@@ -16,6 +16,7 @@ permalink: /resources/
 
 # Resources by Seminar
 
+
 {% assign past_seminars = site.seminars | where_exp: "s", "s.date < site.time" | sort: "date" | reverse %}
 {% for seminar in past_seminars %}
   {% if seminar.resources %}
@@ -24,7 +25,10 @@ permalink: /resources/
 
   <ul>
     {% for r in seminar.resources %}
-      <li><a href="{{ r.url }}">{{ r.name }}</a></li>
+      <li>
+        <a href="{{ r.url }}" target="_blank">{{ r.name }}</a><br>
+        <small>{{ r.description }}</small>
+      </li>
     {% endfor %}
   </ul>
   {% endif %}
