@@ -18,6 +18,8 @@ Risk science is the effort to understand hazards and their impacts in ways that 
 
 This (experimental) seminar series convenes people who rarely meet—scientists, practitioners, policymakers, and creators—to explore the science, practice, and implications of complex risk. It is a space for gathering, connecting, and discovering new ways of understanding and responding to the risks of our time. It builds on the foundation created during the Science Understanding from Data Science ([SUDS](https://www.jpl.nasa.gov/go/suds/suds-report/)) initiative conducted internally at the NASA Jet Propulsion Laboratory between 2021-2024 and then emerged into a multi-institutional movement, supporting numerous 'Horizons Initiatives.' 
 
+Watch the previous seminars on YouTube [here](https://www.youtube.com/playlist?list=PLOop1avL3VJFLbnIyEKaC_Y_7_Fv7bWH4). 
+
 - Use the navigation bar to learn more about the series.
 - Connect with the community on Slack - join the seminars to get access
 - [Upcoming Seminars]({{ site.baseurl }}/seminars/)
