@@ -21,4 +21,18 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.resources %}
+  <hr>
+  <h2>Resources</h2>
+  <ul>
+    {% for r in page.resources %}
+      <li>
+        <a href="{{ r.url }}" target="_blank">{{ r.name }}</a><br>
+        <small>{{ r.description }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  
 </article>
