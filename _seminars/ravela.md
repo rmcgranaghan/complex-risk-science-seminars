@@ -45,6 +45,10 @@ resources:
 **Recording**
 [YouTube video](https://youtu.be/KkR_uG_zrMQ)
 
+**Framing Slides**
+[Framing Slides (PDF)](/assets/McGranaghan_FramingAndRavelaIntro_Sept23_2025.pdf)
+
+
 **Abstract**
 Today’s climate risks lie not in the averages but in the extremes. In a changing climate, the tails of probability distributions may spread far more rapidly than the drifting mean, fundamentally challenging how hazards are modeled, interpreted, and acted upon.
 
