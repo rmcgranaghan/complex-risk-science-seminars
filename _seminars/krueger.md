@@ -1,7 +1,7 @@
 ---
 layout: seminar
 title: "Emergence of risk, uncertainty, and resilience in social-ecological-technological systems (SETS)"
-speaker: "Dr. Elizabeth Krueger, University of Amsterdam"
+speaker: "Dr. Elisabeth Krueger, University of Amsterdam"
 date: 2025-10-23
 time: "1:00 PM ET"
 location: "Virtual"
