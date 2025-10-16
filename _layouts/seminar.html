@@ -11,6 +11,15 @@ layout: default
   <p><strong>Time:</strong> {{ page.time }}</p>
   <p><strong>Location:</strong> {{ page.location }}</p>
 
+  {% if page.registration %}
+  <p>
+    <a href="{{ page.registration }}" target="_blank" 
+       style="display:inline-block; background:#2563eb; color:#fff; padding:10px 16px; border-radius:6px; text-decoration:none;">
+       {{ page.registration_label | default: "Register for this Seminar" }}
+    </a>
+  </p>
+  {% endif %}
+  
   {% if page.flyer %}
     <p><a href="{{ page.flyer | relative_url }}" target="_blank">📄 View Seminar Flyer</a></p>
   {% endif %}
