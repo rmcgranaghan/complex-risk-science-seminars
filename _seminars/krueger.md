@@ -1,11 +1,13 @@
 ---
 layout: seminar
-title: "Reframing resilience-oriented urban water management"
+title: "Emergence of risk, uncertainty, and resilience in social-ecological-technological systems (SETS)"
 speaker: "Dr. Elizabeth Krueger, University of Amsterdam"
 date: 2025-10-23
 time: "1:00 PM ET"
-location: "Virtual ([register](https://docs.google.com/forms/d/e/1FAIpQLSeP4fLrvMrvFYF-vSSm8OvpJr7QMXAc3KVplt8500I6sCN0SA/viewform?usp=header) to receive link)"
+location: "Virtual"
 flyer: "/assets/Krueger_ComplexRiskFlyer.pdf"
+registration: "https://docs.google.com/forms/d/e/1FAIpQLSeP4fLrvMrvFYF-vSSm8OvpJr7QMXAc3KVplt8500I6sCN0SA/viewform?usp=header"
+registration_label: "Register for the Seminars"
 ---
 
 **Abstract**
