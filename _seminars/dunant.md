@@ -1,6 +1,6 @@
 ---
 layout: seminar
-title: "Multihazards Scenario Generator: A Network‐Based Simulation of Natural Disasters"
+title: "Modelling Cascading Multi-Hazards: From Risk Theory to Graph Simulation"
 speaker: "Dr. Alexandre Dunant, EURAC Research"
 date: 2025-11-18
 time: "1:00 PM ET"
