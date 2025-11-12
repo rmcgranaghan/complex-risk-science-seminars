@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: seminar
 title: "Multihazards Scenario Generator: A Network‐Based Simulation of Natural Disasters"
 speaker: "Dr. Alexandre Dunant, EURAC Research"
 date: 2025-11-18
