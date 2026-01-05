@@ -2,7 +2,7 @@
 layout: seminar
 title: "What Digital Twins (alone) will not Answer for Risk Science"
 speaker: "Dr. Ryan McGranaghan, JPL"
-date: 2026-1-13
+date: 2026-2-3
 time: "1:00 PM ET"
 location: "Virtual"
 flyer: "/assets/Dunant_ComplexRiskFlyer.pdf"
